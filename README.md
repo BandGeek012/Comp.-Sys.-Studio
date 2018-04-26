@@ -1,4 +1,4 @@
-# Comp.-Sys.-Studio
+# Computer Systems Studio I Library
 ## Current Projects
 * Pacific Trails Resort
   * This is a HTML created to show I know how to set up nav and anchor points on websites
